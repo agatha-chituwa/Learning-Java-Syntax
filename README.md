@@ -1,4 +1,5 @@
-👩‍💻 Learning Java Syntax
+👩‍💻 Learning Java Syntax  
+
 Welcome to my Java learning repository! I'm currently exploring Java syntax, solving exercises, and sharing insights as I go. Feel free to follow along, drop suggestions, or open a pull request if you spot areas for improvement. I'm open to feedback as I grow in this journey!
 
 📘 What You'll Find Here  
