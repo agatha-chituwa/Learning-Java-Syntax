@@ -37,7 +37,8 @@ Welcome to my Java learning repository! I'm currently exploring Java syntax, sol
     
     Submit a pull request
 
-Your insights are valuable and appreciated.
+Your insights are valuable and appreciated.   
+
 🙋🏽‍♀️ About Me  
 
     I'm Agatha, a passionate learner diving into the world of Java programming. This repository serves as a personal log and a platform to engage with the developer community.
