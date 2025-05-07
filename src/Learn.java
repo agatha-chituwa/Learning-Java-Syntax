@@ -23,7 +23,23 @@ public class Learn {
         }else if (day == 7) {
             System.out.println("The day will be Mon");
         }
+        System.out.println("Sum from 1 to 10 is " + sum(1,10));
+        System.out.println("Sum from 1 to 10 is " + sum(20,37));
+        System.out.println("Sum from 1 to 10 is " + sum(35,49));
 
 
     }
+
+
+
+
+public static int sum(int start, int end){
+    int sum = 0;
+    for(int i = start ; i<=
+
+            end ; i++){
+        sum = sum+i;
+    }
+    return  sum;
+}
 }
